@@ -1,0 +1,14 @@
+C:\Users\LOQ\OneDrive\Documents\Elgama\bin\Debug\net8.0-windows\ElgamaApp.exe
+C:\Users\LOQ\OneDrive\Documents\Elgama\bin\Debug\net8.0-windows\ElgamaApp.deps.json
+C:\Users\LOQ\OneDrive\Documents\Elgama\bin\Debug\net8.0-windows\ElgamaApp.runtimeconfig.json
+C:\Users\LOQ\OneDrive\Documents\Elgama\bin\Debug\net8.0-windows\ElgamaApp.dll
+C:\Users\LOQ\OneDrive\Documents\Elgama\bin\Debug\net8.0-windows\ElgamaApp.pdb
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.AssemblyInfoInputs.cache
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.AssemblyInfo.cs
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.dll
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\refint\ElgamaApp.dll
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.pdb
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ElgamaApp.genruntimeconfig.cache
+C:\Users\LOQ\OneDrive\Documents\Elgama\obj\Debug\net8.0-windows\ref\ElgamaApp.dll
