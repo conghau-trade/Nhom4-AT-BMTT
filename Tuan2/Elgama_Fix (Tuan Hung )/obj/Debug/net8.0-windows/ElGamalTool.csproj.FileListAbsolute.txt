@@ -1,0 +1,14 @@
+C:\Users\LOQ\OneDrive\Pictures\Elgama\bin\Debug\net8.0-windows\ElGamalTool.exe
+C:\Users\LOQ\OneDrive\Pictures\Elgama\bin\Debug\net8.0-windows\ElGamalTool.deps.json
+C:\Users\LOQ\OneDrive\Pictures\Elgama\bin\Debug\net8.0-windows\ElGamalTool.runtimeconfig.json
+C:\Users\LOQ\OneDrive\Pictures\Elgama\bin\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\OneDrive\Pictures\Elgama\bin\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.AssemblyInfoInputs.cache
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.AssemblyInfo.cs
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\refint\ElGamalTool.dll
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ElGamalTool.genruntimeconfig.cache
+C:\Users\LOQ\OneDrive\Pictures\Elgama\obj\Debug\net8.0-windows\ref\ElGamalTool.dll
