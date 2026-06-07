@@ -1,0 +1,28 @@
+C:\Users\LOQ\Music\Elgama\bin\Debug\net8.0-windows\ElGamalTool.exe
+C:\Users\LOQ\Music\Elgama\bin\Debug\net8.0-windows\ElGamalTool.deps.json
+C:\Users\LOQ\Music\Elgama\bin\Debug\net8.0-windows\ElGamalTool.runtimeconfig.json
+C:\Users\LOQ\Music\Elgama\bin\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama\bin\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool (1).AssemblyInfoInputs.cache
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool (1).AssemblyInfo.cs
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool (1).csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\refint\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ElGamalTool (1).genruntimeconfig.cache
+C:\Users\LOQ\Music\Elgama\obj\Debug\net8.0-windows\ref\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\bin\Debug\net8.0-windows\ElGamalTool.exe
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\bin\Debug\net8.0-windows\ElGamalTool.deps.json
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\bin\Debug\net8.0-windows\ElGamalTool.runtimeconfig.json
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\bin\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\bin\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool (1).AssemblyInfoInputs.cache
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool (1).AssemblyInfo.cs
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool (1).csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\refint\ElGamalTool.dll
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool.pdb
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ElGamalTool (1).genruntimeconfig.cache
+C:\Users\LOQ\Music\Elgama_NguyenVuTuanHung\obj\Debug\net8.0-windows\ref\ElGamalTool.dll
